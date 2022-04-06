@@ -1,0 +1,14 @@
+body{
+  background-color: black;
+  color: grey; /*Couleur du texte*/
+  text-align: center; /*Texte centré*/
+
+}
+
+img{
+	width: 63%;
+}
+
+p{
+ font-size:30px;
+}
